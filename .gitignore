@@ -1,6 +1,5 @@
 node_modules
 npm-debug.log
-.env
 /src/generated/prisma
 
 /src/generated/prisma
@@ -8,3 +7,7 @@ npm-debug.log
 /src/generated/prisma
 
 /prisma/generated
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
